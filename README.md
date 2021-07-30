@@ -2,7 +2,6 @@
 
 ## E-Commerce application made with django
 
----
 ### How to run this app:
 1. Clone this repository
 ```
